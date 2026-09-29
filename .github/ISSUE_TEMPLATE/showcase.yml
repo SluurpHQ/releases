@@ -1,0 +1,29 @@
+name: Add to the showcase
+description: An app or site you built with Sluurp, for the Showcase page.
+labels: [showcase]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Address
+      placeholder: https://…
+    validations:
+      required: true
+  - type: textarea
+    id: about
+    attributes:
+      label: What it is
+      description: A sentence or two, and what Sluurp does in it.
+    validations:
+      required: true
+  - type: input
+    id: picture
+    attributes:
+      label: A screenshot
+      description: A link to one, or drop it in the box above.

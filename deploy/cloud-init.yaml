@@ -1,0 +1,21 @@
+#cloud-config
+# Sluurp on a new server, set up as it starts. Paste this where the provider
+# asks for "user data" or "cloud config" when you create the server:
+#   DigitalOcean: Create Droplet, Advanced options, Add initialization scripts
+#   Hetzner Cloud: Create server, Cloud config
+#   others: user data, on an Ubuntu 24.04 or Debian 12 image
+#
+# Fill in the four lines below first. DOMAIN is a name you point at the
+# server's address; HTTPS comes by itself. Leave SLUURP_LICENSE empty for
+# non-commercial use.
+write_files:
+  - path: /etc/sluurp.env
+    permissions: "0600"
+    content: |
+      DOMAIN=
+      ADMIN_EMAIL=
+      ADMIN_PASSWORD=
+      SLUURP_LICENSE=
+
+runcmd:
+  - curl -fsSL https://raw.githubusercontent.com/SluurpHQ/releases/main/deploy/install-server.sh | sh

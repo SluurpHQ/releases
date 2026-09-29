@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Docs
+    url: https://sluurp.org/docs
+    about: How to build with Sluurp.
+  - name: Business licence
+    url: https://sluurp.org/business
+    about: Free for non-commercial use; a licence for commercial use.

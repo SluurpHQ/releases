@@ -1,0 +1,24 @@
+name: Something is wrong
+description: A bug, a crash, or something that doesn't work as the docs say.
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What `sluurp --version` says.
+      placeholder: what sluurp --version says
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: System
+      placeholder: Windows 11, macOS 15, Ubuntu 24.04…
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead. Logs and screenshots help.
+    validations:
+      required: true

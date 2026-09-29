@@ -1,0 +1,71 @@
+Sluurp License
+
+Copyright (c) 2026 The Sluurp authors. All rights reserved.
+
+Sluurp is distributed as binaries only. Its source code is not published and
+is not licensed to you.
+
+1. Free for non-commercial use
+
+   You may download, install and run the Sluurp binaries, at no charge, for
+   non-commercial purposes: personal projects, study, schools, clubs,
+   charities and other uses that do not earn money. You may share the
+   unmodified binaries with others for the same purposes.
+
+2. Commercial use needs a commercial licence
+
+   Running Sluurp to operate a business, to earn money from an application
+   built on it, or to build or host applications for paying clients is
+   commercial use. Commercial use is allowed only on servers covered by a
+   paid commercial licence, one licence per server, on the terms of that
+   licence. Development on your own computer does not need one.
+
+3. Commercial licences are yours alone
+
+   A commercial licence is granted to the person or business that bought
+   it, for its own use. It may not be resold, rented, lent, given away,
+   shared or otherwise transferred to anyone else, alone or with anything
+   else, without the written agreement of the Sluurp authors. You may move a
+   licence from one of your own servers to another, as long as it covers no
+   more servers at once than you paid for.
+
+   Licences for additional servers, sold at a lower price, extend a first
+   full-price licence. They may be used only by the same person or business
+   that holds that first licence, on its own servers. They may not be bought
+   for, used by or passed on to anyone else: another business, a client, a
+   partner, or a company in the same group that is a separate legal entity.
+
+4. What you may not do
+
+   You may not modify, decompile, disassemble or reverse engineer the
+   binaries, except where the law allows it despite this term; remove or
+   bypass the licence check; sell, rent or sublicense the binaries or a
+   licence; or offer Sluurp itself as a hosted service to others.
+
+5. Your applications are yours
+
+   The applications, data and content you make with Sluurp belong to you.
+   Code the UI kit places in your application (a component you copy, a
+   story it writes) is yours to use in that application under the same
+   terms as the rest of it.
+
+6. Third-party software
+
+   The binaries include software from others under their own licences. Those
+   licences, and their notices, are listed at
+   https://sluurp.org/license, and they apply to those parts.
+
+7. No warranty
+
+   Sluurp is provided "as is", without warranty of any kind, express or
+   implied, including the warranties of merchantability, fitness for a
+   particular purpose and non-infringement. In no event shall the authors be
+   liable for any claim, damages or other liability arising from the use of
+   Sluurp.
+
+8. Ending
+
+   This licence ends automatically if you break its terms. On ending, you
+   must stop using Sluurp and delete your copies.
+
+Questions about licensing: https://sluurp.org/business
