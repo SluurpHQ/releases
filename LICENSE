@@ -17,13 +17,21 @@ the rights to use it set out below.
    charities and other uses that do not earn money. You may share the
    unmodified binaries with others for the same purposes.
 
+   Several servers run as one (a swarm, or cluster, of nodes) may have up to
+   three nodes for non-commercial use at no charge. Each node beyond the
+   third needs a paid licence, one per node, even for non-commercial use.
+
 2. Commercial use needs a commercial licence
 
    Running Sluurp to operate a business, to earn money from an application
    built on it, or to build or host applications for paying clients is
    commercial use. Commercial use is allowed only on servers covered by a
-   paid commercial licence, one licence per server, on the terms of that
-   licence. Development on your own computer does not need one.
+   paid commercial licence, for as many servers as it was bought for, on
+   the terms of that licence. A licence covers up to three servers, and
+   more can be added to it. Each node of a swarm is a server: commercial use
+   of a swarm needs a licence covering every node, from the first; the three
+   nodes free for non-commercial use are not free for commercial use.
+   Development on your own computer does not need one.
 
 3. Commercial licences are yours alone
 
@@ -34,11 +42,11 @@ the rights to use it set out below.
    licence from one of your own servers to another, as long as it covers no
    more servers at once than you paid for.
 
-   Licences for additional servers, sold at a lower price, extend a first
-   full-price licence. They may be used only by the same person or business
-   that holds that first licence, on its own servers. They may not be bought
-   for, used by or passed on to anyone else: another business, a client, a
-   partner, or a company in the same group that is a separate legal entity.
+   Servers added to a licence extend that licence. They may be used only by
+   the same person or business that holds the licence, on its own servers.
+   They may not be bought for, used by or passed on to anyone else: another
+   business, a client, a partner, or a company in the same group that is a
+   separate legal entity.
 
 4. What you may not do
 
@@ -91,8 +99,11 @@ S1. Who you buy from
 
 S2. What you buy
 
-   A business licence is a key that allows commercial use of Sluurp on one
-   server, paid once. Its price is the one shown at
+   A business licence is a key that allows commercial use of Sluurp on up
+   to three servers, paid once; more servers can be added to it, each paid
+   once. Each node of a swarm (several servers run as one) is a server. A
+   non-commercial swarm needs licences only for its nodes beyond the third.
+   Its price is the one shown at
    https://sluurp.org/business when you buy it, including any offer running
    then. A licence bought at an offer price is the same licence, and keeps
    working as any other.
